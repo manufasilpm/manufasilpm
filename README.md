@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Orell Software Solution PVT LTD**
 
-- 🌱 I’m currently learning **Spring Boot , Agular , Java Script**
+- 🌱 I’m currently learning **Spring Boot , React Agular , Java Script , JQuery**
 
-- 💬 Ask me about **Spring Boot , Agular , Java Script**
+- 💬 Ask me about **Spring Boot , React , Agular , Java Script , JQuery**
 
 - 📫 How to reach me **manufasilpm@gmail.com**
 
